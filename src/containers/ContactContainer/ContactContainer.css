@@ -1,0 +1,70 @@
+.contact .my__form input[type="text"],
+.contact .my__form input[type="email"],
+.contact .my__form textarea {
+  border: none;
+  border-bottom: 1px solid #cccccc;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.contact .my__form .textarea__group,
+.contact .my__form textarea {
+  height: 100%;
+}
+
+@media (max-width: 991px) {
+  .contact .my__form .textarea__group,
+  .contact .my__form textarea {
+    height: 200px;
+  }
+}
+
+.contact button.custom__submit {
+  color: white;
+  padding: 12px 20px;
+  border: 1px solid #00d2ff;
+  background: linear-gradient(90deg, #3a47d5 0%, #00d2ff 100%);
+  width: 150px;
+  border-radius: 4px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s ease;
+  z-index: 1;
+}
+.contact button.custom__submit::before {
+  content: "";
+  transform: translate(-25%, -25%);
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+  position: absolute;
+  width: 200%;
+  display: block;
+  left: 0;
+  top: 0;
+  height: 350%;
+  transition: all 0.5s ease;
+  z-index: -1;
+}
+.contact button.custom__submit:hover {
+  border: 1px solid #00d2ff;
+}
+
+.contact button.custom__submit:hover::before {
+  transform: translate(-25%, -25%) rotate(-180deg);
+  background: linear-gradient(135deg, #21d4fd 25%, #b721ff 75%);
+}
+
+.hidden {
+  display: none;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus,
+.form-control:focus,
+button[type="submit"]:focus {
+  font-weight: 500;
+  outline: 1px solid #00d2ff;
+}

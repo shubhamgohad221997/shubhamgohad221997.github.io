@@ -1,0 +1,11 @@
+.header-info {
+  align-items: center;
+  display: flex;
+  padding-top: calc(var(--padding-big, 6rem) + 50px);
+  padding-bottom: var(--padding-big, 6rem);
+  text-align: center;
+  color: var(--text-color);
+  height: 700px;
+  /* border: 1px solid red; */
+  box-sizing: border-box;
+}
