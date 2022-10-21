@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cabe3dac.chunk.css",
+    "main.js": "/static/js/main.ad3f5881.chunk.js",
+    "main.js.map": "/static/js/main.ad3f5881.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4e17a6e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4e17a6e.js.map",
+    "static/js/2.5307a84e.chunk.js": "/static/js/2.5307a84e.chunk.js",
+    "static/js/2.5307a84e.chunk.js.map": "/static/js/2.5307a84e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0376de25c06e48acb6556236c8aaba88.js": "/precache-manifest.0376de25c06e48acb6556236c8aaba88.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cabe3dac.chunk.css.map": "/static/css/main.cabe3dac.chunk.css.map",
+    "static/js/2.5307a84e.chunk.js.LICENSE.txt": "/static/js/2.5307a84e.chunk.js.LICENSE.txt",
+    "static/media/Shubham1.png": "/static/media/Shubham1.8da8fcc9.png",
+    "static/media/ShubhamGohad_Resume.pdf": "/static/media/ShubhamGohad_Resume.1a06f44d.pdf",
+    "static/media/PortfolioComponent.css": "/static/media/circle.cfc539ea.png",
+    "static/media/SkillsComponent.css": "/static/media/back3.16e529ce.png",
+    "static/media/header_image-Recovered-Recovered.png": "/static/media/header_image-Recovered-Recovered.05b02378.png",
+    "static/media/mytheresa.png": "/static/media/mytheresa.aee8a097.png",
+    "static/media/nordstrom.png": "/static/media/nordstrom.b763f740.png",
+    "static/media/time.png": "/static/media/time.b76f9aa1.png",
+    "static/media/urbancompany.png": "/static/media/urbancompany.ca5a7a88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4e17a6e.js",
+    "static/js/2.5307a84e.chunk.js",
+    "static/css/main.cabe3dac.chunk.css",
+    "static/js/main.ad3f5881.chunk.js"
+  ]
+}
