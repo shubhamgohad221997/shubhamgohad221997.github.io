@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8365642be77139a42e6d08fab2ca8d05",
+    "revision": "b884143a1a38ce2d9e76a937eedb9c60",
     "url": "/index.html"
   },
   {
-    "revision": "7debf0a5be2ff50d30a2",
+    "revision": "214dac08143a07bb6c7a",
     "url": "/static/css/main.80d1ee14.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5307a84e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7debf0a5be2ff50d30a2",
-    "url": "/static/js/main.79aeeec6.chunk.js"
+    "revision": "214dac08143a07bb6c7a",
+    "url": "/static/js/main.ec757391.chunk.js"
   },
   {
     "revision": "e39a942170c1a9b8ce0b",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Shubham1.8da8fcc9.png"
   },
   {
-    "revision": "1a06f44d34bdc6df1baecbaa123c3731",
-    "url": "/static/media/ShubhamGohad_Resume.1a06f44d.pdf"
+    "revision": "e39047a65aeaa7905b6cc60f3fc21791",
+    "url": "/static/media/ShubhamGohad_Resume.e39047a6.pdf"
   },
   {
     "revision": "244831e08af81d1777a904803d799f95",
