@@ -6,6 +6,10 @@
   box-shadow: none;
   border-radius: 0;
 }
+.github1{
+  width: 100%;
+  margin-bottom: 100px;
+}
 
 .contact .my__form .textarea__group,
 .contact .my__form textarea {
@@ -67,4 +71,57 @@ textarea:focus,
 button[type="submit"]:focus {
   font-weight: 500;
   outline: 1px solid #00d2ff;
+}
+
+
+
+.main_box { 
+  width: 80%; 
+  margin: auto; 
+  padding: 30px 0; 
+} 
+
+
+
+.box1 { 
+  display: flex; 
+  justify-content: center; 
+  padding: 20px 0; 
+
+} 
+
+.box2 { 
+  display: flex; 
+  justify-content: center; 
+
+} 
+
+img { 
+  width: auto; 
+} 
+
+@media (max-width: 600px) { 
+
+  .box2 { 
+      display: grid; 
+      justify-content: center; 
+      grid-template-columns: repeat(1,1fr); 
+      grid-template-rows: repeat(1,1fr); 
+       
+       
+  } 
+
+  img { 
+      width: auto; 
+  } 
+} 
+
+@media (max-width: 300px) { 
+
+  img { 
+      width: 80%; 
+      /* padding: 5px; 
+      margin-left: 25px; */ 
+    
+  } 
 }
