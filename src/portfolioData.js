@@ -58,7 +58,7 @@ const projectsData = [
     imgURL: require("./images/mytheresa.png"),
     liveDemoText: "Live Demo",
     project__info:
-      "Mytheresa.com is an online store for men, women, and kids. You can buy a wide range of branded clothes, apparel, accessories, and shoes online It was a group project, with 5 members.",
+      "Mytheresa.com is an online store for men, women, and kids. You can buy a wide range of branded clothes, apparel, accessories, and shoes online It was a group project, with 5 members. Tech Stack: HTML, CSS, JavaScript",
     sourceCodeText: "Source Code",
     sourceURL: "https://github.com/ArjunSinghBhakuni/Mytheresa-clone-website",
     filter__word: "javascript",
@@ -70,7 +70,7 @@ const projectsData = [
     imgURL: require("./images/nordstrom.png"),
     liveDemoText: "Live Demo",
     project__info:
-      "It is a leading fashion retailer offering compelling clothing, shoe accessories for men, women, kids.",
+      "It is a leading fashion retailer offering compelling clothing, shoe accessories for men, women, kids. Tech Stack: HTML, CSS, JavaScript",
     sourceCodeText: "Source Code",
     sourceURL: "https://github.com/shivambais/projectAllFileInOne ",
     filter__word: "javascript",
@@ -82,7 +82,7 @@ const projectsData = [
     imgURL: require("./images/urbancompany.png"),
     liveDemoText: "Live Demo",
     project__info:
-      "Urban Company is your one-stop destination for expert local services. Get dozens of trusted professionals near you to take care of all your home and beauty product provider.",
+      "Urban Company is your one-stop destination for expert local services. Get dozens of trusted professionals near you to take care of all your home and beauty product provider. Tech Stack: React, CSS, JavaScript, Chakra UI, Redux",
     sourceCodeText: "Source Code",
     sourceURL: "https://github.com/shubhamgohad221997/gratis-shoe-2388 ",
     filter__word: "react",
@@ -95,7 +95,7 @@ const projectsData = [
     imgURL: require("./images/time.png"),
     liveDemoText: "Live Demo",
     project__info:
-      "Clockify is one of the best Time tracking website. In this website you can easily track your time and manage also. It was a group project, with 5 members. My task in this project was to create a Sidebar, Time tracker page and Manage the backend of time tracker page ",
+      "Clockify is one of the best Time tracking website. In this website you can easily track your time and manage also. It was a group project, with 5 members. My task in this project was to create a Sidebar, Time tracker page and Manage the backend of time tracker page. Tech Stack: React, CSS, JavaScript, Chakra UI, Redux, MongoDB, express, nodemon ",
     sourceCodeText: "Source Code",
     sourceURL: "https://github.com/Durgashankar001/clockify_clone",
     filter__word: "react",
