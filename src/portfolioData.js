@@ -100,6 +100,19 @@ const projectsData = [
     sourceURL: "https://github.com/Durgashankar001/clockify_clone",
     filter__word: "react",
   },
+
+  {
+    id: 4,
+    liveDemo: "https://metned.netlify.app/",
+    projectName: "Mednet_Project",
+    imgURL: require("./images/metnet.png"),
+    liveDemoText: "Live Demo",
+    project__info:
+      "About Metneds is one of India's leading healthcare aggregators and most trusted medicine delivery website. Features:  Sign up/Login Page  Home Page  Cart . It was a group project, with 5 members. My task in this project was to create a Sidebar, Product page, Product detail Page and Manage the backend of time tracker page. Tech Stack: React, CSS, JavaScript, Chakra UI, Redux, MongoDB, express, nodemon ",
+    sourceCodeText: "Source Code",
+    sourceURL: "https://github.com/Durgashankar001/skinny-tendency-7143",
+    filter__word: "react",
+  },
   
 ];
 
