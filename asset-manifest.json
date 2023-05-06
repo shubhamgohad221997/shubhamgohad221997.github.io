@@ -1,32 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8fc8760.chunk.css",
-    "main.js": "/static/js/main.21439982.chunk.js",
-    "main.js.map": "/static/js/main.21439982.chunk.js.map",
+    "main.css": "/static/css/main.57cecec3.chunk.css",
+    "main.js": "/static/js/main.c0653fb1.chunk.js",
+    "main.js.map": "/static/js/main.c0653fb1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a4e17a6e.js",
     "runtime-main.js.map": "/static/js/runtime-main.a4e17a6e.js.map",
-    "static/js/2.5307a84e.chunk.js": "/static/js/2.5307a84e.chunk.js",
-    "static/js/2.5307a84e.chunk.js.map": "/static/js/2.5307a84e.chunk.js.map",
+    "static/js/2.8461cf9b.chunk.js": "/static/js/2.8461cf9b.chunk.js",
+    "static/js/2.8461cf9b.chunk.js.map": "/static/js/2.8461cf9b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9f2fbb246e7de1eb86f0278bc3cd5122.js": "/precache-manifest.9f2fbb246e7de1eb86f0278bc3cd5122.js",
+    "precache-manifest.5df994acf23feb65874ab13554159a8a.js": "/precache-manifest.5df994acf23feb65874ab13554159a8a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e8fc8760.chunk.css.map": "/static/css/main.e8fc8760.chunk.css.map",
-    "static/js/2.5307a84e.chunk.js.LICENSE.txt": "/static/js/2.5307a84e.chunk.js.LICENSE.txt",
-    "static/media/Shubham1.png": "/static/media/Shubham1.8da8fcc9.png",
+    "static/css/main.57cecec3.chunk.css.map": "/static/css/main.57cecec3.chunk.css.map",
+    "static/js/2.8461cf9b.chunk.js.LICENSE.txt": "/static/js/2.8461cf9b.chunk.js.LICENSE.txt",
+    "static/media/ERP.png": "/static/media/ERP.4e46ac35.png",
     "static/media/ShubhamGohad_Resume.pdf": "/static/media/ShubhamGohad_Resume.e39047a6.pdf",
     "static/media/PortfolioComponent.css": "/static/media/circle.cfc539ea.png",
     "static/media/SkillsComponent.css": "/static/media/back3.16e529ce.png",
+    "static/media/github4.png": "/static/media/github4.2cf151b8.png",
     "static/media/header_image-Recovered-Recovered.png": "/static/media/header_image-Recovered-Recovered.05b02378.png",
     "static/media/metnet.png": "/static/media/metnet.85ed2b71.png",
     "static/media/mytheresa.png": "/static/media/mytheresa.aee8a097.png",
     "static/media/nordstrom.png": "/static/media/nordstrom.b763f740.png",
+    "static/media/shubham2.jpg": "/static/media/shubham2.9be92b28.jpg",
     "static/media/time.png": "/static/media/time.b76f9aa1.png",
     "static/media/urbancompany.png": "/static/media/urbancompany.ca5a7a88.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a4e17a6e.js",
-    "static/js/2.5307a84e.chunk.js",
-    "static/css/main.e8fc8760.chunk.css",
-    "static/js/main.21439982.chunk.js"
+    "static/js/2.8461cf9b.chunk.js",
+    "static/css/main.57cecec3.chunk.css",
+    "static/js/main.c0653fb1.chunk.js"
   ]
 }
